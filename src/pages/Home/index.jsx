@@ -1,5 +1,4 @@
 import React from "react";
-import Slider from "react-slick";
 import { useState } from "react";
 import { useSelector } from "react-redux";
 import TextField, {Input} from '@material/react-text-field';
